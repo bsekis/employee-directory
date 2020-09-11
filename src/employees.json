@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "firstName": "Peter",
+    "lastName": "Gibbons",
+    "department": "Sales",
+    "role": "Sales Associate",
+    "location": "Cubicle",
+    "imgUrl": "https://cdn.quotesgram.com/img/38/8/928497819-OfficeSpace_122Pyxurz.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "Bill",
+    "lastName": "Lumbergh",
+    "department": "Management",
+    "role": "Manager",
+    "location": "Office",
+    "imgUrl": "https://miro.medium.com/max/1400/1*iPUvOx5AIkrbS-KYR7aFUg.png"
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Bolton",
+    "department": "IT",
+    "role": "Developer",
+    "location": "Cubicle",
+    "imgUrl": "https://i.imgflip.com/1ban6q.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "Samir",
+    "lastName": "Nagaheenanajar",
+    "department": "IT",
+    "role": "Developer",
+    "location": "Cubicle",
+    "imgUrl": "https://66.media.tumblr.com/4a0f787833228689cbec6cd578bfcb0f/tumblr_mfrj343AYO1s1kqrno1_500.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Milton",
+    "lastName": "Waddams",
+    "department": "Customer Support",
+    "role": "Associate",
+    "location": "Cubicle",
+    "imgUrl": "https://cdn.costumewall.com/wp-content/uploads/2017/03/milton-waddams.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Bob",
+    "lastName": "Slydell",
+    "department": "Human Resources",
+    "role": "Associate",
+    "location": "Office",
+    "imgUrl": "https://movie-fanatic-res.cloudinary.com/iu/s--T4WWsvOy--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1364991007/bob-slydell.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": "Tom",
+    "lastName": "Smykowski",
+    "department": "Customer Support",
+    "role": "Associate",
+    "location": "Cubicle",
+    "imgUrl": "https://i.pinimg.com/originals/d5/29/d7/d529d72e65adb201168e2e8a10d9e383.jpg"
+  },
+  {
+    "id": 8,
+    "firstName": "Bob",
+    "lastName": "Porter",
+    "department": "Human Resources",
+    "role": "Associate",
+    "location": "Office",
+    "imgUrl": "https://photos1.blogger.com/blogger/2403/681/1600/bob2a.2.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": "Joanna",
+    "lastName": "Gibbons",
+    "department": "Support",
+    "role": "Office Administrator",
+    "location": "Cubicle",
+    "imgUrl": "https://www.hollywoodoutbreak.com/wp-content/uploads/2015/08/office-space-flair-350x262.jpg"
+  },
+  {
+    "id": 10,
+    "firstName": "Lawrence",
+    "lastName": "Neighbor",
+    "department": "Support",
+    "role": "Intern",
+    "location": "Floating",
+    "imgUrl": "https://www.sfexaminer.com/wp-content/uploads/2019/01/190122-SFE-M-ABaderA.jpg"
+  }
+]
